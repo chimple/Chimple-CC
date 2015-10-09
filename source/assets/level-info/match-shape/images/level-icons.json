@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "box.png",
+	"frame": {"x":2,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "lock.png",
+	"frame": {"x":304,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "star_1.png",
+	"frame": {"x":606,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "star_2.png",
+	"frame": {"x":908,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "star_3.png",
+	"frame": {"x":1210,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "star_white.png",
+	"frame": {"x":1512,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "level-icons.png",
+	"format": "RGBA8888",
+	"size": {"w":1814,"h":304},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c6d69fc65e02524ca57a9bb8b456232:baba58c78fb7add26325a02494dfc16a:4b9e9c835d51736f58f8f7ea532da995$"
+}
+}

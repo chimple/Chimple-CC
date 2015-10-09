@@ -1,0 +1,82 @@
+{
+"frames": [
+	{
+		"filename":"Circle_Color.png",
+		"frame": {"x":397, "y":196, "w":196, "h":195},
+		"spriteSourceSize": {"x":53,"y":54,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Circle_Dot.png",
+		"frame": {"x":269, "y":0, "w":196, "h":195},
+		"spriteSourceSize": {"x":53,"y":54,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Ovel_Color.png",
+		"frame": {"x":590, "y":589, "w":140, "h":196},
+		"spriteSourceSize": {"x":81,"y":53,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Ovel_Dot.png",
+		"frame": {"x":590, "y":392, "w":140, "h":196},
+		"spriteSourceSize": {"x":81,"y":53,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Pentagon_Color.png",
+		"frame": {"x":397, "y":392, "w":192, "h":196},
+		"spriteSourceSize": {"x":55,"y":52,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Pentagon_Dot.png",
+		"frame": {"x":397, "y":589, "w":192, "h":196},
+		"spriteSourceSize": {"x":55,"y":52,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Rectangle_Color.png",
+		"frame": {"x":0, "y":155, "w":268, "h":154},
+		"spriteSourceSize": {"x":17,"y":75,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+    {
+		"filename":"Rectangle_Dot.png",
+		"frame": {"x":0, "y":0, "w":268, "h":154},
+		"spriteSourceSize": {"x":17,"y":75,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Square_Color.png",
+		"frame": {"x":199, "y":310, "w":197, "h":196},
+		"spriteSourceSize": {"x":53,"y":53,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Square_Dot.png",
+		"frame": {"x":199, "y":507, "w":197, "h":196},
+		"spriteSourceSize": {"x":53,"y":53,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Triangle_Color.png",
+		"frame": {"x":0, "y":310, "w":198, "h":199},
+		"spriteSourceSize": {"x":51,"y":50,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	},
+	{
+		"filename":"Triangle_Dot.png",
+		"frame": {"x":0, "y":510, "w":198, "h":194},
+		"spriteSourceSize": {"x":51,"y":55,"w":300,"h":300},
+		"sourceSize": {"w":300,"h":300}
+	}
+
+],
+"meta": {
+	"image": "level-color.png",
+	"size": {"w": 731, "h": 786},
+	"scale": "1"
+}
+}

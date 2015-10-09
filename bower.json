@@ -1,0 +1,22 @@
+{
+  "name": "chimple",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chrisdopuch/custom-phaser-template",
+  "authors": [
+    "Chimple E-Learning"
+  ],
+  "description": "Template for bootstrapping Phaser projects with Grunt, Bower, and RequireJS",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-official": "~2.4.2",
+    "requirejs": "~2.1.15",
+    "jquery": "~2.1.3"
+  }
+}
