@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "home_button.png",
+	"frame": {"x":2,"y":2,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "next_button.png",
+	"frame": {"x":2,"y":129,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "previous_button.png",
+	"frame": {"x":129,"y":2,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "reload_button.png",
+	"frame": {"x":129,"y":129,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+},
+{
+	"filename": "setting_button.png",
+	"frame": {"x":256,"y":2,"w":125,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
+	"sourceSize": {"w":125,"h":125}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "extra_buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":383,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96b0f159432c4c5d17e54bbf94f57712:107af2f2c49bde18256652f3b6cdd026:412a6bec6f87ca1f849409b39acc696d$"
+}
+}

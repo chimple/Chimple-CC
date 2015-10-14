@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "music_button.png",
+	"frame": {"x":2,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "play_button.png",
+	"frame": {"x":304,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+{
+	"filename": "quit_button.png",
+	"frame": {"x":606,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "main_menu_buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":908,"h":304},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1471f16be2ef544946d4889cd52fa5d5:c77841be86a1895834aabe2baec4a0cb:f3eb4b54f3070f6ad32c4104544f7f6c$"
+}
+}

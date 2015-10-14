@@ -51,10 +51,10 @@
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "level-icons.png",
+	"image": "level_icons.png",
 	"format": "RGBA8888",
 	"size": {"w":1814,"h":304},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:8c6d69fc65e02524ca57a9bb8b456232:baba58c78fb7add26325a02494dfc16a:4b9e9c835d51736f58f8f7ea532da995$"
+	"smartupdate": "$TexturePacker:SmartUpdate:a534917afc536403a19813de68559034:4b7ba132f358d47968f7a829519347c8:fadf3fc63e60c94c4701a9e166a9f6da$"
 }
 }

@@ -23,17 +23,17 @@ define([
     function Game() {}
 
     Game.prototype = {
+        constructor: Game,
         start: function() {
-            var game = new Phaser.Game(ChimpleBase.designedWidth, ChimpleBase.designedHeight, Phaser.AUTO, 'game');
-            console.log('BootState:' + BootState);
-            game.state.add('Boot', BootState);
-            game.state.add('Preloader', PreloaderState);
-            game.state.add('MasterMenu', MasterMenuState);
-            game.state.add('LevelsMenu', LevelMenuState);
-            game.state.add('LevelMaster', LevelMasterState);
-            game.state.add('LevelIntro', LevelIntroState);
-            game.state.add('LevelExecute', LevelExecuteState);
-            game.state.start('Boot');            
+            this.game = new Phaser.Game(ChimpleBase.designedWidth, ChimpleBase.designedHeight, Phaser.AUTO, 'game');
+            this.game.state.add('Boot', BootState);
+            this.game.state.add('Preloader', PreloaderState);
+            this.game.state.add('MasterMenu', MasterMenuState);
+            this.game.state.add('LevelsMenu', LevelMenuState);
+            this.game.state.add('LevelMaster', LevelMasterState);
+            this.game.state.add('LevelIntro', LevelIntroState);
+            this.game.state.add('LevelExecute', LevelExecuteState);
+            this.game.state.start('Boot');
         }
     };
 

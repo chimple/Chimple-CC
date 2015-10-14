@@ -14,7 +14,7 @@
             'phaser': {
                 deps: ["jquery"],
                 exports: 'Phaser'
-            },
+            }
         }
     });
 
@@ -22,12 +22,14 @@
         'phaser',
         'app/ChimpleBase',
         'app/plugins/FadePlugin',
+        'app/plugins/PhaserStorm',
         'app/Game'
     ],
     function (
         Phaser,
         ChimpleBase,
-        FadePlugin,        
+        FadePlugin,
+        PhaserStorm,
         Game
     ) {
         var game = new Game();

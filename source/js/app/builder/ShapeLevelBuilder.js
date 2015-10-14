@@ -8,135 +8,135 @@ var ShapeLevelBuilder = (function() {
 				level:4,
 				draggableElements : {
 					'count' : 6,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Object.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle_object.png',
+						  'type': 'circle',
 					 	},
 					 	{
-						  'shape' : 'Rectangle_Object.png',
-						  'type': 'Rectangle',							
+						  'shape' : 'rectangle_object.png',
+						  'type': 'rectangle',
 					 	},
 						{
-						  'shape' : 'Square_Object.png',
-						  'type': 'Square',							
+						  'shape' : 'square_object.png',
+						  'type': 'square',
 					 	},
 					 	{
-						  'shape' : 'Ovel_Object.png',
-						  'type': 'Ovel',							
+						  'shape' : 'oval_object.png',
+						  'type': 'oval',
 					 	},
 					 	{
-						  'shape' : 'Pentagon_object.png',
-						  'type': 'Pentagon',							
+						  'shape' : 'pentagon_object.png',
+						  'type': 'pentagon',
 					 	},
 					 	{
-						  'shape' : 'Triangle_Object.png',
-						  'type': 'Triangle',							
-					 	}					 	
+						  'shape' : 'triangle_object.png',
+						  'type': 'triangle',
+					 	}
 					]
 				},
 				centerElements : {
 					'count' : 6,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Dot.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle_dot.png',
+						  'type': 'circle',
 					 	},
 					 	{
-						  'shape' : 'Triangle_Dot.png',
-						  'type': 'Triangle',							
+						  'shape' : 'triangle_dot.png',
+						  'type': 'triangle',
 					 	},
 					 	{
-						  'shape' : 'Pentagon_Dot.png',
-						  'type': 'Pentagon',							
+						  'shape' : 'pentagon_dot.png',
+						  'type': 'pentagon',
 					 	},
 					 	{
-						  'shape' : 'Ovel_Dot.png',
-						  'type': 'Ovel',							
+						  'shape' : 'oval_dot.png',
+						  'type': 'oval',
 					 	},
 					 	{
-						  'shape' : 'Rectangle_Dot.png',
-						  'type': 'Rectangle',							
+						  'shape' : 'rectangle_dot.png',
+						  'type': 'rectangle',
 					 	},
 					 	{
-						  'shape' : 'Square_Dot.png',
-						  'type': 'Square',							
+						  'shape' : 'square_dot.png',
+						  'type': 'square',
 					 	},
 					]
 				},
-				atlas:'level-object',				
+				atlas:'level-object',
 				backgroundImage: {
-					'image': 'assets/level-info/match-shape/images/Game_Play_Background_Level_03.png'
+					'image': 'assets/level-info/match-shape/images/level_03_background.png'
 				}
 			},
 			'3': {
 				level:3,
 				draggableElements : {
 					'count' : 6,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Color.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle_color.png',
+						  'type': 'circle',
 					 	},
 					 	{
-						  'shape' : 'Rectangle_Color.png',
-						  'type': 'Rectangle',							
+						  'shape' : 'rectangle_color.png',
+						  'type': 'rectangle',
 					 	},
 						{
-						  'shape' : 'Square_Color.png',
-						  'type': 'Square',							
+						  'shape' : 'square_color.png',
+						  'type': 'square',
 					 	},
 					 	{
-						  'shape' : 'Ovel_Color.png',
-						  'type': 'Ovel',							
+						  'shape' : 'oval_color.png',
+						  'type': 'oval',
 					 	},
 					 	{
-						  'shape' : 'Pentagon_Color.png',
-						  'type': 'Pentagon',							
+						  'shape' : 'pentagon_color.png',
+						  'type': 'pentagon',
 					 	},
 					 	{
-						  'shape' : 'Triangle_Color.png',
-						  'type': 'Triangle',							
-					 	}					 	
-					] 
+						  'shape' : 'triangle_color.png',
+						  'type': 'triangle',
+					 	}
+					]
 				},
 				centerElements : {
 					'count' : 6,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Dot.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle_dot.png',
+						  'type': 'circle',
 					 	},
 					 	{
-						  'shape' : 'Triangle_Dot.png',
-						  'type': 'Triangle',							
+						  'shape' : 'triangle_dot.png',
+						  'type': 'triangle',
 					 	},
 					 	{
-						  'shape' : 'Pentagon_Dot.png',
-						  'type': 'Pentagon',							
+						  'shape' : 'pentagon_dot.png',
+						  'type': 'pentagon',
 					 	},
 					 	{
-						  'shape' : 'Ovel_Dot.png',
-						  'type': 'Ovel',							
+						  'shape' : 'oval_dot.png',
+						  'type': 'oval',
 					 	},
 					 	{
-						  'shape' : 'Rectangle_Dot.png',
-						  'type': 'Rectangle',							
+						  'shape' : 'rectangle_dot.png',
+						  'type': 'rectangle',
 					 	},
 					 	{
-						  'shape' : 'Square_Dot.png',
-						  'type': 'Square',							
+						  'shape' : 'square_dot.png',
+						  'type': 'square',
 					 	},
 
-					] 
+					]
 				},
 				atlas:'level-color',
 				backgroundImage: {
-					'image': 'assets/level-info/match-shape/images/Game_Play_Background_Level_02.png'
+					'image': 'assets/level-info/match-shape/images/level_02_background.png'
 				}
 			},
 
@@ -144,68 +144,68 @@ var ShapeLevelBuilder = (function() {
 				level:2,
 				draggableElements : {
 					'count' : 6,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Simple.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle.png',
+						  'type': 'circle',
 					 	},
 					 	{
-						  'shape' : 'Rectangle_Simple.png',
-						  'type': 'Rectangle',							
+						  'shape' : 'rectangle.png',
+						  'type': 'rectangle',
 					 	},
 						{
-						  'shape' : 'Square_Simple.png',
-						  'type': 'Square',							
+						  'shape' : 'square.png',
+						  'type': 'square',
 					 	},
 					 	{
-						  'shape' : 'Ovel_Simple.png',
-						  'type': 'Ovel',							
+						  'shape' : 'oval.png',
+						  'type': 'oval',
 					 	},
 					 	{
-						  'shape' : 'Pentagon_Simple.png',
-						  'type': 'Pentagon',							
+						  'shape' : 'pentagon.png',
+						  'type': 'pentagon',
 					 	},
 					 	{
-						  'shape' : 'Triangle_Simple.png',
-						  'type': 'Triangle',							
-					 	}					 	
-					] 
+						  'shape' : 'triangle.png',
+						  'type': 'triangle',
+					 	}
+					]
 				},
 				centerElements : {
 					'count' : 6,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Dot.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle_dot.png',
+						  'type': 'circle',
 					 	},
 					 	{
-						  'shape' : 'Triangle_Dot.png',
-						  'type': 'Triangle',							
+						  'shape' : 'triangle_dot.png',
+						  'type': 'triangle',
 					 	},
 					 	{
-						  'shape' : 'Pentagon_Dot.png',
-						  'type': 'Pentagon',							
+						  'shape' : 'pentagon_dot.png',
+						  'type': 'pentagon',
 					 	},
 					 	{
-						  'shape' : 'Ovel_Dot.png',
-						  'type': 'Ovel',							
+						  'shape' : 'oval_dot.png',
+						  'type': 'oval',
 					 	},
 					 	{
-						  'shape' : 'Rectangle_Dot.png',
-						  'type': 'Rectangle',							
+						  'shape' : 'rectangle_dot.png',
+						  'type': 'rectangle',
 					 	},
 					 	{
-						  'shape' : 'Square_Dot.png',
-						  'type': 'Square',							
+						  'shape' : 'square_dot.png',
+						  'type': 'square',
 					 	},
 
-					] 
+					]
 				},
 				atlas: 'base-level',
 				backgroundImage: {
-					'image': 'assets/level-info/match-shape/images/Game_Play_Background_Level_01.png'
+					'image': 'assets/level-info/match-shape/images/level_01_background.png'
 				},
 			},
 
@@ -213,27 +213,27 @@ var ShapeLevelBuilder = (function() {
 				level:1,
 				draggableElements : {
 					'count' : 1,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Simple.png',
-						  'type': 'Circle',							
-					 	}				 	
-					] 
+						  'shape' : 'circle.png',
+						  'type': 'circle',
+					 	}
+					]
 				},
 				centerElements : {
 					'count' : 1,
-					'items' : 
+					'items' :
 					[
 						{
-						  'shape' : 'Circle_Dot.png',
-						  'type': 'Circle',							
+						  'shape' : 'circle_dot.png',
+						  'type': 'circle',
 					 	}
-					] 
+					]
 				},
 				atlas: 'base-level',
 				backgroundImage: {
-					'image': 'assets/level-info/match-shape/images/Game_Play_Background_Level_01.png'
+					'image': 'assets/level-info/match-shape/images/level_01_background.png'
 				},
 			},
 
